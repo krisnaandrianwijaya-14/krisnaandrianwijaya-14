@@ -13,7 +13,7 @@ I'm a Software Engineering (TRPL) student at Politeknik Negeri Banyuwangi.
 ### 🚀 About Me
 - 🔭 Currently focusing on studying and deepening my knowledge in **Software Engineering**.
 - 🌱 Exploring modern development tools for building web and mobile applications.
-- 🤝 Actively involved in the Business & Informatics Student Association (HMJBI) and managing class coordination.
+- 🤝 Actively involved in the Business & Informatics Student Association (HMJBI).
 - 💬 Let's talk about: software development, new technologies, or campus organizational life.
 - ⚡ Fun fact: Even though I've tried various tech stacks and tools, to be honest, I'm still figuring out exactly what specialization I want to focus on for my future career! 😅
 
