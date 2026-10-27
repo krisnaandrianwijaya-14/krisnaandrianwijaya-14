@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Krisna Andrian Wijaya!
 
-<!--
-**krisnaandrianwijaya-14/krisnaandrianwijaya-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering (TRPL) student at Politeknik Negeri Banyuwangi passionate about building scalable web and mobile applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently developing multi-tenant systems and responsive apps using **Laravel** and **Flutter**.
+- 🌱 Always exploring modern development tools like **Docker**, **Redis**, and crafting UI/UX designs with **Figma**.
+- 🤝 Actively involved in student organizations (HMJBI) and managing class coordination.
+- 💬 Ask me about: **PHP, Dart, Tailwind CSS, or Database Schemas**.
+- ⚡ Fun fact: When I'm not customizing my VS Code or Zed Editor, you can usually find me competing on the futsal court or tuning up my motorcycle! 🏍️⚽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tools & Technologies
+<p align="left">
+  <!-- Anda bisa mengganti URL di bawah ini dengan ikon dari devicon.dev atau shields.io nanti -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
