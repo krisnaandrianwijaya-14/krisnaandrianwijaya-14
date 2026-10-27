@@ -3,21 +3,22 @@
 I'm a Software Engineering (TRPL) student at Politeknik Negeri Banyuwangi.
 
 <p align="left">
-  <!-- Jangan lupa ganti URL href dengan tautan profil asli Anda -->
-  <a href="https://linkedin.com/in/krisnaandrianwijaya" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="24" height="24" />
-  </a>
-  &nbsp;&nbsp;
+  <!-- Instagram -->
   <a href="https://instagram.com/justkrreess___" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="24" height="24" />
+    <img src="https://cdn.simpleicons.org/instagram/white#gh-dark-mode-only" alt="Instagram" width="18" height="18" />
+    <img src="https://cdn.simpleicons.org/instagram/black#gh-light-mode-only" alt="Instagram" width="18" height="18" />
   </a>
   &nbsp;&nbsp;
+  <!-- Facebook -->
   <a href="https://facebook.com/miejebew__" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="24" height="24" />
+    <img src="https://cdn.simpleicons.org/facebook/white#gh-dark-mode-only" alt="Facebook" width="18" height="18" />
+    <img src="https://cdn.simpleicons.org/facebook/black#gh-light-mode-only" alt="Facebook" width="18" height="18" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://threads.net/@krreessnaa14" target="_blank">
-    <img src="https://cdn.simpleicons.org/threads/white" alt="Threads" width="24" height="24" />
+  <!-- Threads -->
+  <a href="https://threads.net/@krreessnaa14-" target="_blank">
+    <img src="https://cdn.simpleicons.org/threads/white#gh-dark-mode-only" alt="Threads" width="18" height="18" />
+    <img src="https://cdn.simpleicons.org/threads/black#gh-light-mode-only" alt="Threads" width="18" height="18" />
   </a>
 </p>
 
@@ -30,6 +31,5 @@ I'm a Software Engineering (TRPL) student at Politeknik Negeri Banyuwangi.
 
 ### 💻 Tools & Technologies
 <p align="left">
-  <!-- Atribut height="35" ditambahkan agar ukuran logo mengecil -->
   <img src="https://skillicons.dev/icons?i=html,js,tailwind,figma,php,laravel,dart,flutter,mysql,docker,git" height="35" alt="My Tools" />
 </p>
