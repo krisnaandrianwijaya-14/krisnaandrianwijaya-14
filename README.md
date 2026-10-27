@@ -3,23 +3,11 @@
 I'm a Software Engineering (TRPL) student at Politeknik Negeri Banyuwangi.
 
 <p align="left">
-  <!-- Instagram -->
-  <a href="https://instagram.com/justkrreess___" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/white#gh-dark-mode-only" alt="Instagram" width="18" height="18" />
-    <img src="https://cdn.simpleicons.org/instagram/black#gh-light-mode-only" alt="Instagram" width="18" height="18" />
-  </a>
+  <a href="https://instagram.com/justkrreess___" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/black" width="14" height="14" /></picture></a>
   &nbsp;&nbsp;
-  <!-- Facebook -->
-  <a href="https://facebook.com/miejebew__" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/white#gh-dark-mode-only" alt="Facebook" width="18" height="18" />
-    <img src="https://cdn.simpleicons.org/facebook/black#gh-light-mode-only" alt="Facebook" width="18" height="18" />
-  </a>
+  <a href="https://facebook.com/username-anda" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/facebook/white"><img alt="Facebook" src="https://cdn.simpleicons.org/facebook/black" width="14" height="14" /></picture></a>
   &nbsp;&nbsp;
-  <!-- Threads -->
-  <a href="https://threads.net/@krreessnaa14-" target="_blank">
-    <img src="https://cdn.simpleicons.org/threads/white#gh-dark-mode-only" alt="Threads" width="18" height="18" />
-    <img src="https://cdn.simpleicons.org/threads/black#gh-light-mode-only" alt="Threads" width="18" height="18" />
-  </a>
+  <a href="https://threads.net/@username-anda" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/white"><img alt="Threads" src="https://cdn.simpleicons.org/threads/black" width="14" height="14" /></picture></a>
 </p>
 
 ### 🚀 About Me
@@ -31,5 +19,5 @@ I'm a Software Engineering (TRPL) student at Politeknik Negeri Banyuwangi.
 
 ### 💻 Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,js,tailwind,figma,php,laravel,dart,flutter,mysql,docker,git" height="35" alt="My Tools" />
+  <img src="https://skillicons.dev/icons?i=html,js,tailwind,figma,php,laravel,dart,flutter,mysql,docker,git" height="24" alt="My Tools" />
 </p>
