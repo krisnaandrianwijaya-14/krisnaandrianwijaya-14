@@ -5,20 +5,19 @@ I'm a Software Engineering (TRPL) student at Politeknik Negeri Banyuwangi.
 <p align="left">
   <!-- Jangan lupa ganti URL href dengan tautan profil asli Anda -->
   <a href="https://linkedin.com/in/krisnaandrianwijaya" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="30" height="30" />
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="24" height="24" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/justkrreess___" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="30" height="30" />
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="24" height="24" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://facebook.com/krreesskacau3" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="30" height="30" />
+  <a href="https://facebook.com/miejebew__" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="24" height="24" />
   </a>
   &nbsp;&nbsp;
   <a href="https://threads.net/@krreessnaa14" target="_blank">
-    <!-- Logo Threads menggunakan warna putih agar terlihat di mode gelap GitHub -->
-    <img src="https://cdn.simpleicons.org/threads/FFFFFF" alt="Threads" width="30" height="30" />
+    <img src="https://cdn.simpleicons.org/threads/white" alt="Threads" width="24" height="24" />
   </a>
 </p>
 
@@ -31,5 +30,6 @@ I'm a Software Engineering (TRPL) student at Politeknik Negeri Banyuwangi.
 
 ### 💻 Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,js,tailwind,figma,php,laravel,dart,flutter,mysql,docker,git" alt="My Tools" />
+  <!-- Atribut height="35" ditambahkan agar ukuran logo mengecil -->
+  <img src="https://skillicons.dev/icons?i=html,js,tailwind,figma,php,laravel,dart,flutter,mysql,docker,git" height="35" alt="My Tools" />
 </p>
